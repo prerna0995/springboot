@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: prerna.jain
+Implementation-Vendor-Id: springboot
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://spring.io/projects/spring-boot/Course-API
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
